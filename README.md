@@ -1,9 +1,9 @@
 # AWS-KMS-Envelope-Wrap
 How to encrypt everything
 
-'''
-aws kms create-key --description "This key is used for envelope encryption"'
-'''
+
+'''aws kms create-key --description "This key is used for envelope encryption"'''
+
 
 
 Output: { "KeyMetadata": { "AWSAccountId": "************", "KeyId":
